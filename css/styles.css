@@ -32,10 +32,10 @@ a:hover{
 .box{
   float: left;
   background-color: black;
-  width: 250px;
+  width: 240px;
   height: 400px;
   padding: 30px;
-  margin: 35px;
+  margin-left: 63px;
   border-radius: 5px;
   color: white;
 }
